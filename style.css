@@ -1,0 +1,116 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.home-body {
+  background-image: url('cool-background.svg');
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.nav-heading {
+  margin-left: 15px;
+  color: white;
+}
+
+.first-nav-item {
+  padding-left: 1450px;
+}
+
+.big-heading {
+  margin-top: 500px;
+  margin-left: 4%;
+  font-size: 4.5rem;
+}
+
+.bored-box {
+  padding-top: 100px;
+  margin-top: 250px;
+  background-color: black;
+  color:white;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.generate-button {
+  padding: 10px 100px !important; 
+}
+
+h2 {
+  font-size: 6rem;
+  text-align: center;
+  margin-bottom: 100px !important;
+}
+
+.nav-link {
+  font-size: 20px;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+/* generate page */
+
+.generate {
+  padding: 20px 300px !important;
+}
+
+.generate-div {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.generate-heading {
+  font-size: 5rem;
+  margin-bottom: 50px;
+}
+
+.header-pattern {
+  min-width: 100%;
+  min-height: 200px;
+  background-image: url('hot-air-balloon-pattern.jpg');
+}
+
+#helping-resource {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+/* about page */
+
+.about-header {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 4rem;
+  margin-bottom: 50px;
+}
+
+hr {
+  border-style: dotted none none !important;
+  width: 70%;
+  border-width: 5px !important;
+  margin-left: 15% !important;
+  background-color: white!important;
+}
+
+.text-div {
+  margin-top: 50px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 100px;
+  background-color: #212529;
+  text-align: center;
+  padding: 10px;
+}
+
+.middle-link-footer {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none !important;
+}
